@@ -1,0 +1,32 @@
+﻿<LabTech_Expansion
+	Version="105.269"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>0</ScriptId>
+				<FolderId>0</FolderId>
+				<ScriptName>Uninstall Apple QuickTime</ScriptName>
+				<ScriptNotes>This script will attempt to uninstall QuickTime from windows systems. The script will attempt to install twice before creating a ticket. Sometimes a reboot is needed.
+Chris Taylor
+Kamino Consulting
+labtechconsulting.com
+6/10/2016
+ITN</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPQQrCMBRE94J3yAEa+hNJa8onGxVBFESL+9h8IZu0pA3Y20uLQl0NM8MbGDz7hkJPeztYg/XYkRGYz4q3FHZtCgNFA5gvHB7enY8TQ6ZO1Ds7ZuxkQ7JxZKAyJkEUTFebbQXArhfMFwDem+i74UGx922Ylv+Db39M3hnQ0lGjJZcvCVwIKrh1mjiAAlVopcpn+eNnAPPln/XqA/CLLfDfAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAN1abW/bNhD+XqD/4VbA8AYsiSW/ZA4CI0GbFAbSbk2yAQP2hZbONheZNEiqrv/9jhRlK0aiLYkUT/1i60hKIh/e23PU6U2k+NJ8YIaN3r4BOM1k7QQSL74ZxWzvJcck1nCUd/zGFFugQVVo+5jICUsKDdnD/qBBXIpRcHp0v+HeqI8pj0edYRhjNAwPwmnYOQgCHByweIgHnU6/0x8M+/3jyXH+FHeDm/NRcdL+cTcGl5tVnEfGT8Bf+fbLVDh5HNu+glRcZDBqfUkjfnfLF9g6PfJtxRHhDizdHbm3I/cLCEllRh1agf33be+lMFykaNs3177vV33FF9zdkl/6nrGIURjmlke9RbEI0haXEqDCMqC6wxKoPrE7BJ0qBDNnhn5Icq8BrkGKZA0qFYKLGQlgmJqRCsWwYNGcC9SHzYC3VyO8YRm6t3NC0eO54kmSIbqS6s7CueIilitdM5rB09EMBvuDM+g/jufOSl+KTFg5Mt3/gR2vZQqM/q2WWbtdcTMHFqWKGQQuplIt3Ozq0bZuk2y333s1Xes1CZcg7JSo2peUR2XBdfSDbw9fhFi/asRqNc5OmXGuFjyCpZJxGlEcmCNZ5ztB2RgknKy2vQW01X4HEaM4kVLI1cZeHQnJBaVtjB79Ff+bzY6uUaeJ8YO7T4J90CRFfUUDPm4SLi814JObNIpQ60oM+ZdGGXJplB1nFmskJHIGTKzBEIygJTGruQ22sUQt2gZmEpiGZcKEwPgQagm1wyZp5L+kydYlrggxJgCVkmrrAC2qG4U9hGucSJnxFJ820z0xGLUGNmNc2BHW9+kTOMuuzurJqhtFUsq1+goNIR/HwKCdPR9uaBbtXM/nckVge2V3e7QNT27TjMHFknhhTQTmGQxmj1B3ylxvK5KLZUrhnMePOd+Nsv+eg1yJFw6ewXb2iOKwTGErRHF0qzjqZ2VKQaO4TrkL+JNIYyTThHxAoiVozFxs27vbz4gxxm2YJmxWk5E3iyCVgnnDRUThDB0NN2sbwUyhEERelcFCCm4ozrmqmysNKVwiXXtnqmFMyYSgPkY/jFxvdEebYotwtC9TrrSBKeMJxvkdNe1L5TSszn05LvO9RUvfdReDR7xD92HPMDq5dfvhe3vlEFZOqepMgF+zABdUTqr2Rw12KFPFVlg5h9rficP7BJlIl8CmFMBttVJpTKY1ea9GcaTXynmeWib/jqjOlsC7kxjLbtoypbg6hYlMRazbQBRHs1ldpzFhs8hMGW2v+jSmcoKyx2BwLz2oWIMqpx11xoLSus81urpNnvHO2VeECaIA/BY5xvEzRIqSYpdBO0RrMsrviHyMicElK7bWQCwkSWN0hOHHYvj4ibqyk/508jdGxlXQVpaIOLSJUthOzzj80ImM1zWB3yiG0RuUxuiE02sfj9APBPFdxtGya2aRuVgQu2s9Qj82kb5QiZszDZfn46uLD5Yl+qnYU6bWX61ERg4LL+azcOJ91XiY0YzORW6mNnZuX7qdiH29J6RnjmmdZeXCQ3j75pYUSGVlWRtprT4lTG+4bnYkdkID85KtvYUIs1dBW2OcoUDldHOyzkoTmyQHzpfLBLdTaXuinatr/766NeqA61U/h9gHG8tl/0HbPzMNW73fJgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>092dec92-2f20-11e6-ad9e-0050569557b7</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>
